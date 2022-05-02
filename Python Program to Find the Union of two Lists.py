@@ -1,4 +1,4 @@
-# Problem no 6: Python Program to Find the Union of two Lists
+# Python Program to Find the Union of two Lists
 
 l1 = [1,2,2,3,5,2,2]
 l2 = [5,4,2,4,5]
