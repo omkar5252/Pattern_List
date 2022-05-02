@@ -1,4 +1,4 @@
-# Problem 2 : Write a program to find maximum and minimum element in a list.
+# Write a program to find maximum and minimum element in a list.
 
 data = [40,50,30,10,20]
 min = data[0]
