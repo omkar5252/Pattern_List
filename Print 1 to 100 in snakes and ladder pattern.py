@@ -1,4 +1,4 @@
-# Problem no 8: Print 1 to 100 in snakes and ladder pattern.
+# Print 1 to 100 in snakes and ladder pattern.
 
 for i in range(10,0,-1):
     x = i * 10
