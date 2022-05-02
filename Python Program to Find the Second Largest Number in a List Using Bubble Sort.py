@@ -1,4 +1,4 @@
-# Problem no 4 : Python Program to Find the Second Largest Number in a List Using Bubble Sort
+# Python Program to Find the Second Largest Number in a List Using Bubble Sort
 
 data = [10,20,30,40,80]
 
