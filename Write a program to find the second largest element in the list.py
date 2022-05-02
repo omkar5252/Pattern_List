@@ -1,4 +1,4 @@
-# Problem 3 : Write a program to find the second largest element in the list.
+# Write a program to find the second largest element in the list.
 
 data = [50,30,10,20,80,45]
 max = data[0]
