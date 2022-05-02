@@ -1,4 +1,4 @@
-# Problem no 3: Python Program to Sort the List According to the Second Element in Sublist
+# Python Program to Sort the List According to the Second Element in Sublist
 # Bubble sort method is used
 
 data = [[1,8],[2,2],[3,5]]
