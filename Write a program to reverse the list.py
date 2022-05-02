@@ -1,4 +1,4 @@
-# Problem 4 : Write a program to reverse the list.
+# Write a program to reverse the list.
 
 data = [1,2,3,4,5]
 print("Original List:",data)
