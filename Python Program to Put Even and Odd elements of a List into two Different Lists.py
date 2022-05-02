@@ -1,4 +1,4 @@
-# Problem no 1: Python Program to Put Even and Odd elements of a List into two Different Lists
+# Python Program to Put Even and Odd elements of a List into two Different Lists
 
 data =[1,2,3,4,5,6,7,8,9,10]
 size = len(data)
