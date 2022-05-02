@@ -1,4 +1,4 @@
-# Problem no 2 : Python Program to Merge Two Lists and Sort it
+# Python Program to Merge Two Lists and Sort it
 
 l1 = [6,9,7,3,4,2,1]
 l2 = [13,16,19,25,38,10]
