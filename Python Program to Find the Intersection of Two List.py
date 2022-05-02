@@ -1,4 +1,4 @@
-# Problem no 7: Python Program to Find the Intersection of Two List
+# Python Program to Find the Intersection of Two List
 
 l1 = [1,5,4]
 l2 = [5,4,2,7,9,8]
